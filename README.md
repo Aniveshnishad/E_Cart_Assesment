@@ -40,7 +40,7 @@ Enter Few details and super admin will get created
 
 1. There is postmen collection provided in the project you can directly import it.
 2. If you face any issue in postmen collection with env variable please add this variable 
-3. server-url = 
+3. server-url = https://documenter.getpostman.com/view/22394920/2s8YmGTkZi
 4. token can be dynamically set after get token api 
 
 ## Api Document 
